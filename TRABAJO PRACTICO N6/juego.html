@@ -1,0 +1,86 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>La Mosca y La Iguana</title>
+        <LINK REL=StyleSheet HREF="estilos.css">
+            <script src="modal.js"></script>
+    </head>
+    <body>
+        
+   
+<h1>Puede la iguana atrapar a la mosca 10 veces?</h1>
+<div>
+    <p>Te demoraste: <span id="minutos"></span> Min.
+        <span id="segundos"></span> Seg.
+        <span id="milisegundos"></span> Mil.</p>
+        <p>En atrapar la Mosca <span></span>
+</div>
+
+<img src="mosca.png" alt="" id="mosca" style="width: 90px;margin: 100 0 0 100;margin-bottom: 30%;position: relative;" onclick="tocar()">
+<img src="iguana.png" alt="" style="width: 150px; bottom: 30; left: 40%; position: fixed; ">
+<p style="position: fixed; bottom: 30; left: 55%;font-size: 20px;">Puntaje: <span id="contador"></span></p>
+
+<div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+        <p>GANASTE!!!</p>
+        <img src="bicho.png" alt="imagen del bicho">
+      <span class="close">&times;</span>
+      <p>Sigamos Jugando</p>
+    </div>
+    <script src="modal.js"></script>
+  </div>
+
+<script>
+    var movimiento = document.getElementById("mosca");
+    var myVar = setInterval(movement, 1000);
+    var margin = 0;
+
+    function movement() {
+        var posicionY = Math.floor(Math.random() * 90);
+        var positionX = Math.floor(Math.random() * 600);
+        movimiento.style.top = posicionY + "px";
+        movimiento.style.left = positionX + "px";
+
+    }
+
+    contador = 1;
+
+    function tocar() {
+
+        document.getElementById("contador").innerHTML = contador;
+        if (contador > 9) {
+            clearInterval(myVar);
+            return myModal ();
+            location.reload();
+        }
+        contador++;
+    }
+
+
+    setInterval(tiempo, 10);
+    min = 0;
+    seg = 0;
+    mili = 0;
+
+    function tiempo() {
+        mili++;
+        mili = document.getElementById("milisegundos").innerHTML = mili;
+        if (mili == 60) {
+            mili = 0;
+            seg++;
+            seg = document.getElementById("segundos").innerHTML = seg;
+
+            if (seg == 59) {
+                min++;
+                seg = 0;
+                document.getElementById("minutos").innerHTML = min;
+            }
+
+        }
+    }
+</script>
+</body>
+</html>

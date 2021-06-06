@@ -1,0 +1,44 @@
+
+:root{
+    --light: #ffffff;
+    --gris: #fafafa;
+    --azul:#0095f6;
+}
+.foto-perfil{
+    background-image: url("https://i.ibb.co/Fmf4Tys/Pics-Art-Photo-Editor-MOD-04-28-09-53-24.jpg");
+    background-size: cover;
+    width: 3rem;
+    height: 3rem;
+    margin-right: 0.5rem;
+}
+.bg-gris{
+    background-color: var(--gris);
+}
+
+.a{
+    color:  var (--azul);
+}
+.bg.light{
+    background-color: var (--light) !important;
+}
+
+.navbar{
+    min-height: 4em;
+}
+
+i.lead {
+    font-size: 1.8 em;
+}
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+.negritas{
+    font-weight: bold;
+}
+
+.conteiner-historias{
+    height: 190px;
+    overflow-y: auto;
+}

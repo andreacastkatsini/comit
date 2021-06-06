@@ -1,0 +1,13 @@
+D:\Cursos\ComunidadIT\clase14\Menu\bin\Debug\netcoreapp3.1\Menu.exe
+D:\Cursos\ComunidadIT\clase14\Menu\bin\Debug\netcoreapp3.1\Menu.deps.json
+D:\Cursos\ComunidadIT\clase14\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.json
+D:\Cursos\ComunidadIT\clase14\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.dev.json
+D:\Cursos\ComunidadIT\clase14\Menu\bin\Debug\netcoreapp3.1\Menu.dll
+D:\Cursos\ComunidadIT\clase14\Menu\bin\Debug\netcoreapp3.1\Menu.pdb
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.csprojAssemblyReference.cache
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfoInputs.cache
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfo.cs
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.csproj.CoreCompileInputs.cache
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.dll
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.pdb
+D:\Cursos\ComunidadIT\clase14\Menu\obj\Debug\netcoreapp3.1\Menu.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.exe
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.deps.json
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.runtimeconfig.json
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.runtimeconfig.dev.json
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.dll
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.pdb
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.csprojAssemblyReference.cache
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.AssemblyInfoInputs.cache
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.AssemblyInfo.cs
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.csproj.CoreCompileInputs.cache
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.dll
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.pdb
+C:\Users\Premium Intel\Documents\ComIT\Clase 15 Programacion Funcional\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.genruntimeconfig.cache
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.exe
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.deps.json
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.runtimeconfig.json
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.runtimeconfig.dev.json
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.dll
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\bin\Debug\netcoreapp3.1\TareaGrupal.pdb
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.csprojAssemblyReference.cache
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.AssemblyInfoInputs.cache
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.AssemblyInfo.cs
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.csproj.CoreCompileInputs.cache
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.dll
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.pdb
+C:\Users\JOSE  ARRIETA .LAPTOP-Q4SHPL2U\Downloads\TareaGrupal\obj\Debug\netcoreapp3.1\TareaGrupal.genruntimeconfig.cache
